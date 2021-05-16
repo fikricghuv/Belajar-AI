@@ -1,0 +1,13 @@
+Preprocessing adalah sebuah langkah awal untuk mengolah data pada machine learning atau data science. 
+melakukan preprocessing artinya melakukan perbaikan terhadap data yang dimiliki. ada 4 keadaan yang biasanya terdapat kekurangan terhadap data yang dimiliki, yaitu :
+
+1. terdapat data yang kosong atau hilang (missing value).
+2. memliki data yang tidak sama formatnya.
+3. memisahkan data training dengan data test.
+4. menentukan variabel independen dengan dependen.
+5. Menyamakan skala data.
+
+dengan kita mencoba memastikan data yang dimiliki sudah baik, maka akan mempermudah melakukan proses analisa atau proses training kepada machine.
+
+- Feature Scalling -
+merupakan proses penyamaan skala pada data. membuat data menjadi antara rentang 0 sampai 1 pada setiap kolom atau vavriabelnya.
