@@ -1,8 +1,6 @@
 Judul : Machine Learning with Python: A Practical Introduction
 
-BAB : Introduction to Machine Learning (https://www.youtube.com/watch?v=9sMvDI-Q1Sk)
-Catatan :
-
+BAB 1 : Introduction to Machine Learning (https://www.youtube.com/watch?v=9sMvDI-Q1Sk)
 
 # Teknik utama pada Machine Learning yaitu:
   
@@ -58,3 +56,60 @@ Catatan :
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+BAB 2 : Python For Machine Learning ( https://youtu.be/nUb3i0-PRT4 )
+
+# Beberapa Package yang digunakan untuk Machine Learning:
+
+1. Numpy
+  => Perpustakaan matematika untuk bekerja dengan array multi dimensi pada python.
+  
+2. Scipy
+  => Kumpulan algoritam numerik dan toolboxes nya, termasuk pemrosesan sinya, pengoptimalan, statistika dll.
+
+3. Matplotlib
+  => Kemampuan untuk membuat plotting 2D atau 3D.
+
+4. Pandas
+  => Untuk mengatur struktur data(mengimport, manipulasi, analisis data).
+
+5. Scikit-Learn
+  => Kumpulan algoritma dan alat untuk machine learning.
+  
+  
+# Scikit-Learn
+
+=> Fokus pada kursus ini adalah untuk menjelajahi lebih dalam mengenai library Scikit-Learn.
+=> Sebagian besar tugas yang dilakukan pada Machine Learning dapat dilakukan oleh Scikit-Learn mulai yaitu:
+
+  a. Pre-Processing ( feature selection, feature extraction)
+  b. Train-Test-Split
+  c. Algoritm Setup
+  d. Fitting Model (Tuning Parametrs)
+  e. Prediction
+  f. Evaluasi
+  g. Export the Model
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+BAB 3 : Supervised vs Unsupervised ( https://youtu.be/A3289vsGCyE )
+
+# Perbedaan antara Supervised vs Unsupervised
+
+Supervised Learning   : Teknik untuk mengajarkan sebuah mesin apa yang harus dilakukan. cara mengajarkannya adalah dengan kita memberikan sebuah soal 
+                        sekaligus jawabannya. harapannya agar mesin dapat memahami pola yang terbentuk dari pembelajaran sebelumnya.
+                        
+                        2 type SL yaitu : 
+                          a. Clasifikasi : Proses untuk memprediksi label atau kategori
+                          b. Regresi : Proses untuk memprediksi nilai atau data yang berkelanjutan
+                   
+                        
+Unsupervised Learning : Teknik pembeljaran mesin tanpa diberikan contoh terlebih dahulu. 
+                        
+                        Teknik pada UL :
+                          a. Dimension Reduction : Memainkan peran besar dalam hal ini mengurangi fitur derundan untuk mempermudah klasifikasi
+                          b. Density Estimation : Digunakan untuk mengeksplorasi data untuk menemukan bentuk struktur didalamnya.
+                          c. Market Basket Analysis : Teknik permodelan. 
+                          d. Clustering : Untuk mengelompokan titik data atau objek yang mirip.
+                                          Untuk menemukan Struktur, Peringkasan, dan Deteksi anomali.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
