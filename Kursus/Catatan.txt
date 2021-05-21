@@ -3,19 +3,19 @@ Judul : Machine Learning with Python: A Practical Introduction
 Catatan :
 
 
-Teknik utama pada Machine Learning yaitu:
+# Teknik utama pada Machine Learning yaitu:
   
   1. Regresi (Regression/Estimation)
-    => 
-    =>
+    => Untuk memprediksi nilai yang berkelanjutan.
+    => Contohnya memprediksi harga rumah berdasarkan karakteristiknya, memperkirakan emisi C02 dari mesin mobil.
   
   2. Klasifikasi (Clasification)
-    =>
-    =>
+    => Untuk memprediksi kelas atau kategori pada suatu kasus.
+    => Contohnya untuk mengklasifikasi kangker jinak dan ganas.
     
   3. Klaster (Clustering)
-    =>
-    =>
+    => Untuk mengkelompokan kasus yang sejenis
+    => Contohnya adalah mengkelompokan pasien berdasarkan penyakitnya, dapat membuat segmentasi nasabah pada sebuah bank.
   
   4. Teknik Asosiasi (Association Technique)
     => Adalah teknik yang digunakan untuk menemukan peristiwa atau kejadian yang terjadi secara bersamaan. 
@@ -26,7 +26,30 @@ Teknik utama pada Machine Learning yaitu:
     => Contohnya adalah untuk deteksi penipuan kartu kredit.
     
   6. Penambangan Urutan (Squence Mining)
-    => Untuk memprediksi kejadian selanjutnya.
+    => Untuk memprediksi kejadian selanjutnya. (Markov model, HMM)
     => contohnya untuk aliran klik pada situs web.
     
-  7. 
+  7. Pengurangan Dimensi (Dimantion Reduction)
+    => Digunakan untuk mengurangi ukuran data. (PCA)
+  
+  8. Recommendation System (Sitem Rekomendasi)
+    => Digunakan untuk memberikan rekomendasi sesuai prefensi user. 
+    => Contohnya adalah merekomendasikan film pada netflix sesuai keyword yang pernah dituliskan oleh user.
+    
+    
+# Perbedaan antara AI, ML, dan DL :
+
+1. AI components : Mencakup bidang umum.
+    a. Computer Vision
+    b. Language Processing
+    c. Creativity
+    d. etc..
+    
+2. Machine Learning : mencakup bagian statistik kecerdasan buatan.  
+    a. Classification
+    b. Clustering
+    c. Neural
+    d. etc..
+    
+3. Revolution in ML : membuat komputer dapat belajar dan membuat keputusan sendiri.
+    a. Deep Learning
