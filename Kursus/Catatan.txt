@@ -193,3 +193,11 @@ Rumus MSE : 1/n *
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+BAB 6 : Model Evaluation in Regression Model ( https://youtu.be/qf-jf3k4R9k )
+
+# Evaluasi Akurasi Model
+=> untuk meningkatkan kemampuan prediksi sebuah model maka diperlukan akurasi yang cukup bagus dalam model tersebut.
+=> terdapat 2 jenis pendekatan evaluasi :
+    1. Train dan Test pada data yang sama
+    2. Train Test split
+ 
