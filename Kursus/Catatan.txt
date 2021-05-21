@@ -113,3 +113,46 @@ Unsupervised Learning : Teknik pembeljaran mesin tanpa diberikan contoh terlebih
                                           Untuk menemukan Struktur, Peringkasan, dan Deteksi anomali.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+BAB 4 : Introduction to Regression ( https://youtu.be/ULe3dEGi3ZY ) 
+
+# Regression 
+
+=> adalah proses untuk memprediksi data yang berkelanjutan. 
+
+=> memiliki 2 variabel, yaitu:
+  a. Dependen (y) = digunakan sebagai target atau tujuan.
+  b. Independen (X) = variabel penjelas atau penyebap.
+  
+=> memiliki data yang berkelanjutan dan bukan diskrit.
+
+=> Regresi dibagi menjadi 2, yaitu:
+  1. Simple Regression : hanya memiliki 1 variabel independen dan 1 variabel dependen.
+    a. Linear Regression
+    b. Non-linear Regression
+    
+  2. Multiple Regression : memiliki lebih dari 1 variabel independen dan 1 variabel dependen.
+    a. Linear Regression
+    b. Non-linear Regression
+
+=> Pengaplikasian Regresi
+  1. Memprediksi penjualan
+  2. Analisa kepuasan
+  3. Perkiraan harga
+  4. Pemberian gaji karyawan
+  
+=> Algoritma Regresi
+  1. Ordinal Regression
+  2. Poisson Regression
+  3. Fast Forest Quantile Regression
+  4. Linear, Polynomial, Lasso, Stepwise, Ridge Regression
+  5. Bayesian Linear Regression
+  6. Neural Network Regrssion
+  7. Decision forest Regression
+  8. Boosted Decison Tree Regression
+  9. KNN (K-nearest neighbors)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+  
