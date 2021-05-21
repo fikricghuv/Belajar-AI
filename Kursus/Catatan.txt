@@ -1,1 +1,32 @@
+Judul : Machine Learning with Python: A Practical Introduction
+
 Catatan :
+
+
+Teknik utama pada Machine Learning yaitu:
+  
+  1. Regresi (Regression/Estimation)
+    => 
+    =>
+  
+  2. Klasifikasi (Clasification)
+    =>
+    =>
+    
+  3. Klaster (Clustering)
+    =>
+    =>
+  
+  4. Teknik Asosiasi (Association Technique)
+    => Adalah teknik yang digunakan untuk menemukan peristiwa atau kejadian yang terjadi secara bersamaan. 
+    => Contohnya adalah membeli barang kebutuhan sehari-hari yang biasanya dibeli secara bersamaan oleh pelanggan tertentu.
+    
+  5. Deteksi Anomali (Detektion Anomali)
+    => Digunakan untuk menemukan kasus yang tidak biasa atau abnormal.
+    => Contohnya adalah untuk deteksi penipuan kartu kredit.
+    
+  6. Penambangan Urutan (Squence Mining)
+    => Untuk memprediksi kejadian selanjutnya.
+    => contohnya untuk aliran klik pada situs web.
+    
+  7. 
