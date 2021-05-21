@@ -155,4 +155,41 @@ BAB 4 : Introduction to Regression ( https://youtu.be/ULe3dEGi3ZY )
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-  
+BAB 5 : Simple Linear Regression ( https://youtu.be/E7E9TdZ3H8A )
+
+# Simple Linear Regression
+
+Rumus SLR : y = theta0 + theta1 * x1
+
+      ket : y      = variabel dependen
+            theta0 = intercept
+            theta1 = slope / gradient
+            x1     = varibael independen
+            
+Rumus Error : error = y - y^
+
+      ket   : y  = nilai asli
+              y^ = nilai prediksi
+
+  Untuk mengurangi error saat melakukan prediksi maka dapat menggunakan Mean Squared Error (MSE), dengan menggunakan MSE nilai error yang didapat akan 
+berkurang dengan merata-rata semua nilai error. Caranya adalah dengan mengisi nilai theta0 dan theta1 pada persamaan SLR.
+
+theta1 = 
+
+x2 = nilai rata2 variabel independen
+y2 = nilai rata2 variabel dependen
+
+theta0 = y2 - (theta1 * x2)
+
+Rumus MSE : 1/n * 
+
+      ket :
+          
+# Kelebihan Simple Linear Regression
+
+  1. Vary fast
+  2. no parameter tunning
+  3. easy to understand and highly intrepretabel
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
