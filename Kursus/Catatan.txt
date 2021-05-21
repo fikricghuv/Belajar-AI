@@ -1,4 +1,6 @@
-Judul : Introduction to Machine Learning (https://www.youtube.com/watch?v=9sMvDI-Q1Sk)
+Judul : Machine Learning with Python: A Practical Introduction
+
+BAB : Introduction to Machine Learning (https://www.youtube.com/watch?v=9sMvDI-Q1Sk)
 Catatan :
 
 
@@ -52,3 +54,7 @@ Catatan :
     
 3. Revolution in ML : membuat komputer dapat belajar dan membuat keputusan sendiri.
     a. Deep Learning
+    
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
