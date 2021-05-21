@@ -190,8 +190,8 @@ Rumus MSE : 1/n *
   1. Vary fast
   2. no parameter tunning
   3. easy to understand and highly intrepretabel
+  
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 BAB 6 : Model Evaluation in Regression Model ( https://youtu.be/qf-jf3k4R9k )
 
@@ -199,5 +199,39 @@ BAB 6 : Model Evaluation in Regression Model ( https://youtu.be/qf-jf3k4R9k )
 => untuk meningkatkan kemampuan prediksi sebuah model maka diperlukan akurasi yang cukup bagus dalam model tersebut.
 => terdapat 2 jenis pendekatan evaluasi :
     1. Train dan Test pada data yang sama
+      => memiliki kekurangan saat mengetes dengan data baru yang sebelumnya belum dipelajari.
+      => akurasi saat test data nampak lebih bagus tetapi karna data tersebut sudah dipelajari.
     2. Train Test split
+      => memiliki akurasi yang cukup baik saat proses test dengan data baru.
+    3. K-fold Cross Validation
+      => mencari niali average dari hasil akurasi dengan data sets yang berbeda2.
  
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+BAB 7 : Evaluation Metrics in Regression Models ( https://youtu.be/N7MzS6U59S4 )
+
+# Evaluasi metrix
+=> digunakan untuk menjelaskan akurasi dari sebuha model.
+=> sebagai salah satu kunci dalam pengembangan model, karna memberikan wawasan terkait model yang membutuhkan perbaikan.
+=> beberapa contoh evaluasi matrix :
+    1. Mean Absolutly Error (MAE)
+      => Rata-rata dari nilai error yang sebenarnya.
+    2. Mean Squared Error (MSE)
+      => Rata-rata dari nilai kesalahan kuadrat.
+      => Fokusnya lebih diarahkan kepada kesalahan besar.
+    3. Root Mean Squared Error (RMSE)
+      => Akar kuadrat dari kesalahan rata-rata.
+      => ini yang paling populer, karna dapat diinterpretasikan dengan unit y.
+    4. Relative Absolute Error (RAE)
+      => Jumlah sisa kuadrat, dimana y^ merupakan nilai rata-rata dari y.
+=> Pilihan matrix sepenuhnya bergantung pada model, tipe data, dan pengetahuan.
+=> Error adalah adanya perbedaan antara data prediksi dengan data aktual.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+BAB 8 : Simple Linear Regression ( https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/edX/ML0101EN/ML0101EN-Reg-Simple-Linear-Regression-Co2.ipynb?lti=true )
+      
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
