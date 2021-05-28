@@ -7,3 +7,4 @@ Link Belajar AI gratis :
 1. https://cognitiveclass.ai/ ( Cognitive Class )
 2. https://www.edx.org/ ( Edx )
 3. https://www.coursera.org/ ( Coursera )
+4. https://www.megabagus.id/artificial-intelligence/ (Pak Mega)
